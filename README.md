@@ -1,6 +1,7 @@
 # 📋 Aula 3 — Lista de Tarefas Inteligente (To-Do List)
 
 > **Ambiente Local:** `C:\Users\NEVES\Downloads\Aula 3 - Lista de Tarefas`  
+> **Repositório GitHub:** [github.com/sergionevesjdr/Aula-3---Desafio](https://github.com/sergionevesjdr/Aula-3---Desafio)  
 > **Framework:** React 19 + TypeScript + Tailwind CSS v4 + Vite  
 > **Suíte de Testes:** Vitest (100% dos testes aprovados)  
 > **Persistência:** LocalStorage (Navegador)
