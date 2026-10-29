@@ -1,0 +1,6 @@
+{
+  "name": "Tarefas Simples (To-Do List)",
+  "description": "Aplicação didática e moderna de gerenciamento de tarefas para iniciantes em programação, com funções de adicionar, concluir, editar e remover atividades, persistência local e guia arquitetural explicativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
